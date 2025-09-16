@@ -25,7 +25,6 @@ They are grouped by stack (FastAPI, Node.js, Frontend, etc.) and include minimal
 - [ ] **FastAPI + Background Tasks**  
 - [ ] **FastAPI + WebSockets**  
 - [ ] **FastAPI + ML API**  
-- [ ] **FastAPI Full-Stack Starter** (React/Next.js + FastAPI + Docker Compose)  
 
 ---
 
