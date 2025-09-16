@@ -19,7 +19,7 @@ They are grouped by stack (FastAPI, Node.js, Frontend, etc.) and include minimal
 - [x] [**Docker FastAPI Starter**](https://github.com/hackathom-prep/docker-fastapi-starter) → containerized version  
 - [x] [**Docker FastAPI + PostgreSQL Starter**](https://github.com/hackathom-prep/docker-fastapi-postgres) → DB integration
 - [ ] **Docker FastAPI + MongoDB Starter** → DB integration
-- [ ] **Docker FastAPI + DynamoDB Starter** → DB integration  
+- [x] [**Docker FastAPI + DynamoDB Starter**](https://github.com/hackathom-prep/fastapi-dynamo-docker) → DB integration  
 - [ ] **FastAPI + JWT Authentication**  
 - [ ] **FastAPI + Background Tasks**  
 - [ ] **FastAPI + WebSockets**  
