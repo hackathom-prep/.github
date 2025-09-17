@@ -32,8 +32,9 @@ They are grouped by stack (FastAPI, Node.js, Frontend, etc.) and include minimal
 - [x] [**Express.js Starter**](https://github.com/hackathom-prep/express-demo-server)  
 - [x] [**Express + JWT Auth**](https://github.com/hackathom-prep/expressBookReviews)
 - [x] [**Express + PostgreSQL/MongoDB**](https://github.com/hackathom-prep/express-mongodb-task-manager-template)
+- [x] [**fastify-serverless-function-vercel**](https://github.com/hackathom-prep/fastify-serverless-function)
 - [ ] **NestJS Starter**  
-- [ ] **Node.js Full-Stack Starter** (React/Next.js + Node + Docker Compose)  
+- [ ] **Node.js Full-Stack Starter** (React/Next.js + Node + Docker Compose)
 
 ---
 
