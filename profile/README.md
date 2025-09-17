@@ -33,16 +33,15 @@ They are grouped by stack (FastAPI, Node.js, Frontend, etc.) and include minimal
 - [x] [**Express + JWT Auth**](https://github.com/hackathom-prep/expressBookReviews)
 - [x] [**Express + PostgreSQL**](https://github.com/hackathom-prep/express-mongodb-task-manager-template)
 - [ ] **Express + PostgreSQL**
-- [x] [**fastify-serverless-function-vercel**](https://github.com/hackathom-prep/fastify-serverless-function)
-- [x] [**fastify-pqueue-serverless-function**](https://github.com/hackathom-prep/fastify-pqueue-serverless-function)
-- [ ] **NestJS Starter**  
+- [x] [**Fastify serverless function vercel**](https://github.com/hackathom-prep/fastify-serverless-function)
+- [x] [**Fastify + P-Queue serverless function**](https://github.com/hackathom-prep/fastify-pqueue-serverless-function)
 
 ---
 
 ### 🌐 Frontend
 - [ ] **React.js Starter**  
-- [ ] **Next.js Starter**  
-- [ ] **Vue.js Starter** (optional)  
+- [ ] **Next.js Starter**
+- [x] [**React.js + Next.js + Typescript + SCSS**](https://github.com/hackathom-prep/react-next-typescript-scss) → Implementation of a todo-app.
 - [ ] **UI Kits Starter** (Tailwind / Material UI)  
 
 ---
