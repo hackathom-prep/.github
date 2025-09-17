@@ -31,10 +31,11 @@ They are grouped by stack (FastAPI, Node.js, Frontend, etc.) and include minimal
 ### ⚙️ Node.js / TypeScript
 - [x] [**Express.js Starter**](https://github.com/hackathom-prep/express-demo-server)  
 - [x] [**Express + JWT Auth**](https://github.com/hackathom-prep/expressBookReviews)
-- [x] [**Express + PostgreSQL/MongoDB**](https://github.com/hackathom-prep/express-mongodb-task-manager-template)
+- [x] [**Express + PostgreSQL**](https://github.com/hackathom-prep/express-mongodb-task-manager-template)
+- [ ] **Express + PostgreSQL**
 - [x] [**fastify-serverless-function-vercel**](https://github.com/hackathom-prep/fastify-serverless-function)
+- [x] [**fastify-pqueue-serverless-function**](https://github.com/hackathom-prep/fastify-pqueue-serverless-function)
 - [ ] **NestJS Starter**  
-- [ ] **Node.js Full-Stack Starter** (React/Next.js + Node + Docker Compose)
 
 ---
 
